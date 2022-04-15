@@ -22,7 +22,6 @@ body {
   }
   
 h1,
-p1,
 h2,
 h3,
 h4,
@@ -36,3 +35,8 @@ h6 {
   letter-spacing: 1px;
   line-height: 1.5;
 }
+
+p{
+  color: rgb(255, 255, 255);
+}
+
