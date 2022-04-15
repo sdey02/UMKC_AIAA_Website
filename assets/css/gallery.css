@@ -1,7 +1,7 @@
 body {
     padding: 40px;
     background-color: #52a7c1;
-    background-image: linear-gradient(315deg, #52a7c1 0%, #b3f6d8 74%);    
+    background-image: linear-gradient(#00317A 70%, #0c48a3 85%);    
     min-height: 100vh;
   }
   .gallery-info {
