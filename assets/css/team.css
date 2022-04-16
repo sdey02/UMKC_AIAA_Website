@@ -10,6 +10,10 @@ body {
   min-height: 100vh;
 }
 
+p {
+  color: rgb(255, 255, 255);
+}
+
 h1,
 h2,
 h3,
