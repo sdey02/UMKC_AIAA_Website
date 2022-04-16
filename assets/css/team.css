@@ -25,8 +25,12 @@ h6 {
   line-height: 1.5;
 }
 
+p {
+  color:rgb(255, 255, 255)
+}
+
 .gray {
-  color: #a5a5a5;
+  color: #ffffff;
 }
 
 .team{
@@ -95,9 +99,11 @@ h6 {
   transition: all 0.3s ease-in-out;
 }
 
+
+
 .team-member figure:hover figcaption {
   visibility: visible;
-  color: #fff;
+  color: rgb(255, 255, 255);
   background: rgba(230, 78, 62, 0.9);
   /* Primary color, can be changed via colors.css */
   
@@ -109,7 +115,7 @@ h6 {
 }
 
 .team-member figure:hover figcaption ul li a:hover {
-  color: rgba(49, 49, 49, .97);
+  color: rgba(255, 255, 255, 0.97);
 }
 
 .team-member figure img {
