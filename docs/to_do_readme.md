@@ -5,7 +5,7 @@
 ```
 git add .
 git commit -m "your comments"
-git push -su origin <branch>
+git push -u origin <branch>
 ```
 
 ## Overall Tasks
