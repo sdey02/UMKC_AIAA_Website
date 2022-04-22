@@ -205,14 +205,14 @@ p2 {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #1A4270;
+		background-color: #fef7ca;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
 
 		#header > .title {
 			border: 0;
-			color: #ffffff;
+			color: #232323;
 			display: block;
 			font-size: 1.25em;
 			font-weight: bold;
@@ -244,7 +244,7 @@ p2 {
 
 					#header > nav > ul > li a {
 						border: 0;
-						color: rgba(255, 255, 255, 0.35);
+						color: #232323;
 						display: inline-block;
 						font-size: 0.6em;
 						font-weight: bold;
