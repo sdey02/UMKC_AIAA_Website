@@ -30,3 +30,8 @@ git push -u origin <branch>
 
 ## Contact information 
 - [] 
+
+## Color for main 
+- [] line 3247, main.css
+- #A0B2CD
+- 

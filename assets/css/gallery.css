@@ -253,11 +253,11 @@ p2 {
 					}
 
 						#header > nav > ul > li a:hover {
-							color: rgba(255, 255, 255, 0.55);
+							color: rgb(113, 43, 226);
 						}
 
 						#header > nav > ul > li a.active {
-							color: #ffffff;
+							color: #0e3cd1;
 						}
 
 		@media screen and (max-width: 736px) {
