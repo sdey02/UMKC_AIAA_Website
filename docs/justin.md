@@ -7,5 +7,8 @@ git push -u origin <branch>
 -[] In the who we are add images for :
     -[] Meet Our Team 
     -[] Research Labs
-    -[] Gallery images have to be filled out 
-    -[] Add images in the index.html 
+    -[] images have to be 300 x 300
+    -[] Add images in the index.html
+    -[] Need images for Outreach stuff 
+-[] Change Gallery header files
+-[] Add email and photos, if we have any for Projects 
